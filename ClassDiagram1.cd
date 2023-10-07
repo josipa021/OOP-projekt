@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OTTER.BGL" Collapsed="true">
+    <Position X="16.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KIRHSAjCSChhCgoAIJqKQkByAARvISECgiyCgAgIhAA=</HashCode>
+      <FileName>BGL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.SpriteList&lt;T&gt;" Collapsed="true">
+    <Position X="18.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAEAAAABAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Game" Collapsed="true">
+    <Position X="18.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAggEgCAQAAMEEAwAAAACAEAAABAAABiEgABAI=</HashCode>
+      <FileName>GameClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.GameOptions" Collapsed="true">
+    <Position X="20" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAQAAABAAAARAABAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>GameOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Izbornik" Collapsed="true">
+    <Position X="21.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAEAQASAIVhAAAASAAABCAAAYAAAAEOApABREEAA=</HashCode>
+      <FileName>Izbornik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.IzbornikNaKraju" Collapsed="true">
+    <Position X="16.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAICAACAIgBAAACCAgBICACAAAAAAIAACQCKgAAA=</HashCode>
+      <FileName>IzbornikNaKraju.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.PrazanString" Collapsed="true">
+    <Position X="21.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iznimke.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.PostojeceIme" Collapsed="true">
+    <Position X="20" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Iznimke.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Novcic" Collapsed="true">
+    <Position X="12" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Novcic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Odabir_igraca" Collapsed="true">
+    <Position X="18.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAiAACAAAAAAAACAAAACCJgAAAgAhAACAaABBQE=</HashCode>
+      <FileName>Odabir_igraca.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Platforma" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Platforma.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Player" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgwAAAFMEAIQAoBCEBIEAEAABABCAAgAAAAIQAIQgA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Policajac" Collapsed="true">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAAAABAAAAAAAgAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Policajac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Policajac_blagi" Collapsed="true">
+    <Position X="6" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAACAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Policajac_blagi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Policajac_strogi" Collapsed="true">
+    <Position X="8" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Policajac_strogi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Pomicni_lik" Collapsed="true">
+    <Position X="6" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAABAAAAAUAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pomicni_lik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Program" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Prolaznik" Collapsed="true">
+    <Position X="10.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Prolaznik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Sensing" Collapsed="true">
+    <Position X="20" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAgEAAAAAAAAEAAAAgAAAAJAAAA=</HashCode>
+      <FileName>Sensing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.SpriteCostume" Collapsed="true">
+    <Position X="16.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQABAAAAAAAAQAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Sprite" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFEEDgAEg4yIZCeCAJYEBAACwFAiAAAADggkIiZGg=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Virus" Collapsed="true">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Virus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Properties.Resources" Collapsed="true">
+    <Position X="18.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABABEAEAAQAAAABAAAAAABABAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OTTER.Properties.Settings" Collapsed="true">
+    <Position X="21.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
